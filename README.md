@@ -10,7 +10,7 @@ First, add infisical_ex to your `mix.exs` dependencies:
 ```elixir
 def deps do
   [
-    {:infisical_ex, "~> 0.1.1"}
+    {:infisical_ex, "~> 0.1.2"}
   ]
 end
 ```
